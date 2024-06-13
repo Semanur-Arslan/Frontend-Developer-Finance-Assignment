@@ -1,0 +1,17 @@
+.error-message {
+    color: #dc4c64;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.form-item {
+    margin-bottom: 36px;
+}
+
+.collapse-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
