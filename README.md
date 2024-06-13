@@ -1,8 +1,6 @@
 # Debt Tracker Web Application
 This project is a frontend application built for tracking debts, featuring user authentication, debt management functionalities, and a dashboard for statistics.
 
-[![Debt-Tracker-Assignment](https://vimeo.com/957916420?share=copy)
-
 
 ## Technologies Used
 React: Frontend library for building user interfaces
