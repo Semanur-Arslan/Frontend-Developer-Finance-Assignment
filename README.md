@@ -2,6 +2,7 @@
 This project is a frontend application built for tracking debts, featuring user authentication, debt management functionalities, and a dashboard for statistics.
 
 
+
 ## Technologies Used
 ### React: Frontend library for building user interfaces
 ### TypeScript: Typed superset of JavaScript for improved code quality
@@ -10,10 +11,14 @@ This project is a frontend application built for tracking debts, featuring user 
 ### React Router DOM: Declarative routing for React applications
 ### MDB React UI Kit: UI components library for React based on Material Design
 
+
+
 ## Features
 Authentication: Secure user login and registration functionality.
 Debt Management: Create, update, and delete debt records.
 Dashboard: Visualize statistics and summaries of debts.
+
+
 
 ## Getting Started
 To get a local copy up and running follow these steps:
