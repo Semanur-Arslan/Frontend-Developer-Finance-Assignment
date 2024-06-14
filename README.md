@@ -3,12 +3,12 @@ This project is a frontend application built for tracking debts, featuring user 
 
 
 ## Technologies Used
-React: Frontend library for building user interfaces
-TypeScript: Typed superset of JavaScript for improved code quality
-Redux Toolkit: State management library for predictable state container
-Redux Persist: Persisting Redux state in local storage for data persistence
-React Router DOM: Declarative routing for React applications
-MDB React UI Kit: UI components library for React based on Material Design
+### React: Frontend library for building user interfaces
+### TypeScript: Typed superset of JavaScript for improved code quality
+### Redux Toolkit: State management library for predictable state container
+### Redux Persist: Persisting Redux state in local storage for data persistence
+### React Router DOM: Declarative routing for React applications
+### MDB React UI Kit: UI components library for React based on Material Design
 
 ## Features
 Authentication: Secure user login and registration functionality.
